@@ -13,8 +13,8 @@ send.addEventListener('click', (e) => {
         nombre: nombre.value,
         email: email.value,
         comentario: comentario.value 
-
+        
     })
     form.reset()
  
-})
+})	
